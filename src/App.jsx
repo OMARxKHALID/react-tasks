@@ -37,12 +37,12 @@ function App() {
         </div>
 
       </div>
-      {/* <div className="row">
+      <div className="row">
         <div className="col-lg-12">
           <h2 className="mb-4">5. Checkout Form</h2>
           <Form />
         </div>
-      </div> */}
+      </div>
 
     </div>
   );
